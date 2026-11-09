@@ -11,9 +11,8 @@ function Footer() {
 
         <div className="footer-links">
           <h4>Explore</h4>
-          <a href="/">Home</a>
-          <a href="/illusions">Illusions</a>
-          <a href="/about">About</a>
+          <a href="#home">Home</a>
+          <a href="#illusions">Illusions</a>
         </div>
 
         <div className="footer-links">
@@ -24,7 +23,7 @@ function Footer() {
           <a href="https://x.com" target="_blank" rel="noreferrer">
             X
           </a>
-          <a href="/contact">Contact</a>
+          <a href="#contact">Contact</a>
         </div>
       </div>
 
