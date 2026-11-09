@@ -27,3 +27,10 @@ npm run build
 
 Hosted on Vercel and connected to the GitHub repository.
 Production branch: main.
+
+## License
+
+This project's original source code is licensed under the MIT License.
+See the LICENSE file for details.
+
+Third-party images remain subject to their respective licenses.
